@@ -16,10 +16,6 @@ Feel free to modify the code to add/remove new endpoints.
 
 Your code should automatically propagate on save, if you have a console tab open which has run the yarn start command.
 
-# Endotech Node Client
-
-For more information and documentation look at the [endotech-api-node](https://github.com/mattsmithies/endotech-api-node) repo.
-
 # GET Endpoints
 
 ### Resource types (Leagues)
