@@ -1,0 +1,19 @@
+{
+  "name": "rankings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wt create --bundle --watch ."
+  },
+  "keywords": [],
+  "author": "Matthew Smithies",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "tableify": "^1.1.0",
+    "webtask-tools": "^3.2.0"
+  },
+  "license": "MIT"
+}
